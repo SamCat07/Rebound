@@ -6,6 +6,7 @@ import android.graphics.Canvas;
 
 import java.util.List;
 
+//This is where we do the calculations for a single Character
 public class CharacterSprite {
 
     private Bitmap image;
